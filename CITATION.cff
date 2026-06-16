@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Computational Self-Identity Theory (CSIT)"
+authors:
+  - family-names: "Kushwaha"
+    given-names: "Hemant"
+    orcid: "https://orcid.org/0000-0002-1365-6063"
+doi: "10.5281/zenodo.20712511"
+version: "1.0"
+message: "If you use this work, please cite the Zenodo DOI."
